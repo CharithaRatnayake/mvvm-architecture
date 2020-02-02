@@ -1,6 +1,6 @@
 package com.jachdev.mvvm.di.module;
 
-import com.jachdev.mvvm.MainActivity;
+import com.jachdev.mvvm.ui.main.MainActivity;
 import com.jachdev.mvvm.ui.main.MainFragmentBindingModule;
 
 import dagger.Module;
